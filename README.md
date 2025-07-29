@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Perez-Salem Tuwan</h1>
-<h3 align="center">Backend Developer | Passionate about clean, secure, and scalable systems</h3>
+<h3 align="center">Backend Developer | I love learning about computers!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=perez-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
