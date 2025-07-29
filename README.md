@@ -1,25 +1,56 @@
-<h1 align="center">Hi , I'm Perez-salem Tuwan</h1>
-<h3 align="center">Backend developer</h3>
+<h1 align="center">Hi 👋, I'm Perez-Salem Tuwan</h1>
+<h3 align="center">Backend Developer | Passionate about clean, secure, and scalable systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perez-21&label=Profile%20views&color=0e75b6&style=flat" alt="perez-21" /> </p>
-
-- 🌱 I’m currently learning:
-  - Data Structures and Algorithms
-  - Jest
-  - Best security practices for APIs
-  - Svelte
-  - C++
-
-- I'm interested in:
-  - Data collection and management
-  - Security for software
-  - Improving developer experience 
-
-- 📫 How to reach me **@perezsalem_21 on [X](https://twitter.com/perezsalem_21)**
-- I post regularly about my progress, learning and projects. Check it out [here](https://linkedin.com/in/perez-salem-tuwan-084173234)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/perezsalem_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="perezsalem_21" height="15" width="20" /></a>
-<a href="https://linkedin.com/in/perez-salem-tuwan-084173234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perez-salem-tuwan-084173234" height="15" width="20" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=perez-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on:
+  - **Code Crew** — an open-source platform that connects indie hackers and contributors.
+  - A **micro SaaS password manager** inspired by LastPass, focused on security and simplicity.
+- 🌱 I’m actively learning:
+  - Data Structures & Algorithms
+  - Unit Testing with **Jest**
+  - Security Best Practices for APIs
+  - **Svelte** for frontend development
+  - Low-level programming with **C++**
+- 🎯 I’m interested in:
+  - Data collection and management
+  - Developer experience
+  - Software security and backend architecture
+
+---
+
+### 🧠 Tech I Work With
+
+<!-- You can replace or expand these badges with your actual tech stack -->
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+- 🐦 Twitter: [@perezsalem_21](https://twitter.com/perezsalem_21)
+- 💼 LinkedIn: [perez-salem-tuwan](https://linkedin.com/in/perez-salem-tuwan-084173234)
+
+---
+
+### 📢 I Share My Progress
+
+> I post regularly about my journey, projects, and what I’m learning.  
+> 🔗 [Follow along on LinkedIn](https://linkedin.com/in/perez-salem-tuwan-084173234)
+
+---
